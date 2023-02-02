@@ -1,2 +1,1 @@
 # YetGenDikey
-deniyorum
